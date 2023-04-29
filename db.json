@@ -1,0 +1,38 @@
+{
+  "events": [
+    {
+      "id": 1,
+      "title": "News Article 1",
+      "desription": "Desription 1",
+      "category": "sports"
+    },
+
+    {
+      "id": 2,
+      "title": "News Article 2",
+      "desription": "Desription 2",
+      "category": "politics"
+    },
+
+    {
+      "id": 3,
+      "title": "News Article 3",
+      "desription": "Desription 3",
+      "category": "sports"
+    },
+
+    {
+      "id": 4,
+      "title": "News Article 4",
+      "desription": "Desription 4",
+      "category": "politics"
+    },
+
+    {
+      "id": 5,
+      "title": "News Article 5",
+      "desription": "Desription 5",
+      "category": "politics"
+    }
+  ]
+}
